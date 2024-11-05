@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392623109605",
+    "project_id": "entrega-45b58",
+    "storage_bucket": "entrega-45b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392623109605:android:bc2eff281058d8d0706b0c",
+        "android_client_info": {
+          "package_name": "com.example.entrega_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-98XjmycsT6vDQgGO4IYc100KFW1ZHg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
